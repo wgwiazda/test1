@@ -1,2 +1,2 @@
 # test1
-projekt testowy
+projekt testowy, a teraz cos sb dodam :)
